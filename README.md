@@ -10,13 +10,13 @@ Currently learning Flutter by building stuff and also getting my hands dirty on 
 
 > I seek answers here : [StackOverflow](https://stackoverflow.com/users/10179301/abdev)
 
-# I ᗯᖇITE ᕼEᖇE 
+# 🔬 I ᗯᖇITE ᕼEᖇE 
 
-### [~ ᗩᗪITYᗩᗷᕼᗩᖇᗪᗯᗩᒍ.ᗪEᐯ ~](https://adityabhardwaj.dev)
+### [ᗩᗪITYᗩᗷᕼᗩᖇᗪᗯᗩᒍ.ᗪEᐯ](https://adityabhardwaj.dev)
 
-# I ᑭᑌᒪᒪ OᑌT ᗰY ᕼᗩIᖇ ᕼEᖇE
+# 😤 I ᑭᑌᒪᒪ OᑌT ᗰY ᕼᗩIᖇ ᕼEᖇE
 
-### [LeetCode](https://leetcode.com/nodarkcircles/)
+### [ᒪEETᑕOᗪE](https://leetcode.com/nodarkcircles/)
 
 <!---
 nerdpepe/nerdpepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
