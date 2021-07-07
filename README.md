@@ -14,6 +14,10 @@ Currently learning Flutter by building stuff and also getting my hands dirty on 
 
 ### [~ ᗩᗪITYᗩᗷᕼᗩᖇᗪᗯᗩᒍ.ᗪEᐯ ~](https://adityabhardwaj.dev)
 
+# I ᑭᑌᒪᒪ OᑌT ᗰY ᕼᗩIᖇ ᕼEᖇE
+
+### [LeetCode](https://leetcode.com/nodarkcircles/)
+
 <!---
 nerdpepe/nerdpepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
