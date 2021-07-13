@@ -4,7 +4,7 @@ Currently learning Flutter by building stuff and also getting my hands dirty on 
 
 ---
 
-# 📫 ᕼOᗯ TO ᖇEᗩᑕᕼ ᗰE ...
+# 📫 ᕼOᗯ TO ᖇEᗩᑕᕼ ᗰE
 
 > The professional way : [LinkedIn](https://www.linkedin.com/in/ab4dev/)
 
@@ -12,11 +12,11 @@ Currently learning Flutter by building stuff and also getting my hands dirty on 
 
 # 🔬 I ᗯᖇITE ᕼEᖇE 
 
-### [ᗩᗪITYᗩᗷᕼᗩᖇᗪᗯᗩᒍ.ᗪEᐯ](https://adityabhardwaj.dev)
+ [ᗩᗪITYᗩᗷᕼᗩᖇᗪᗯᗩᒍ.ᗪEᐯ](https://adityabhardwaj.dev)
 
 # 😤 I ᑭᑌᒪᒪ OᑌT ᗰY ᕼᗩIᖇ ᕼEᖇE
 
-### [ᒪEETᑕOᗪE](https://leetcode.com/nodarkcircles/)
+ [ᒪEETᑕOᗪE](https://leetcode.com/nodarkcircles/)
 
 <!---
 nerdpepe/nerdpepe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
